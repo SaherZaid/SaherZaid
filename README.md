@@ -23,9 +23,10 @@ Here are some technologies I work with:
 | 2025 | *RentConnect* | A peer-to-peer rental system where users can rent and rent out items. Includes real-time chat, booking calendar, notifications, and clean architecture. | .NET 8, Blazor Server, SQL Server, SignalR, Gmail SMTP, JavaScript, Clean Architecture |
 | 2025 | *TechHive AI Support* | Full-stack application featuring a real-time customer support chatbot powered by OpenAI API, with a custom chat UI and secure environment config. | .NET MVC, SignalR, OpenAI API, Bootstrap 5 |
 | 2025 | *Couple Expense Tracker* | Web app for couples to track and manage shared/individual expenses with analytics, auth, household codes, and filtering. | .NET MVC, EF Core, Identity, Chart.js, SQL Server, MailKit SMTP, Bootstrap |
+| 2024 | *REST API + Frontend E-Commerce System* | Full-stack e-commerce assignment built in two phases: REST API with database repository pattern, authentication, CRUD operations, search filters, then a frontend client consuming the API. Includes customer accounts, product catalog management, and order tracking. | .NET 8 · REST API · SQL Server · Repository Pattern · JWT Auth · SRP · Unit of Work · MVC/Client App |
 | 2024 | *MongoDB Quiz App* | Quiz builder system with dynamic categories, search, sorting, and CRUD question management. | C#, MongoDB, MongoDB.Driver |
 | 2024 | *Bookstore EF App* | Full CRUD bookstore management system with migrations and relational data structure. | .NET, EF Core, SQL Server |
-| 2024 | *WPF Store App* | Desktop store system with authentication, product management, JSON local storage, and async saving/loading. | WPF, C#, JSON, Async |
+| 2023 | *WPF Store App* | Desktop store system with authentication, product management, JSON local storage, and async saving/loading. | WPF, C#, JSON, Async |
 | 2023 | *Store Console App (OOP)* | Console-based system with registration, login, cart system, and ordering using OOP structure. | C# Console, OOP |
 | 2023 | *Finding Numbers Console App* | Algorithm that detects numbers that start and end with the same digit with unique logic rules. | C# Console |
 
