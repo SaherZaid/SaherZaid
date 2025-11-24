@@ -1,18 +1,37 @@
-# 👋 Welcome to My GitHub Portfolio!
+<div align="center">
 
-Hi! I'm a .NET developer passionate about building full-stack applications with clean architecture, real-time features, and modern UI/UX.  
-I enjoy solving real-world problems, learning new technologies, and improving every project I work on.
+# 👋 Welcome to My GitHub Portfolio
+
+🚀 Full-Stack .NET Developer | Blazor | MVC | SQL | Real-Time Systems  
+
+![Profile Views](https://komarev.com/ghpvc/?username=SaherZaid&style=for-the-badge&color=blue)
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🧰 Languages & Tools
 
-Here are some technologies I work with:
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET-68217A?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-- *Languages:* C#, JavaScript
-- *Frameworks:* .NET, ASP.NET MVC, Blazor, WPF
-- *Databases:* SQL Server, MongoDB
-- *Tools:* Git, GitHub, Docker, Visual Studio, VS Code
+</div>
+
+---
+
+## 🛠️ About Me
+
+Hi! I'm a .NET developer passionate about building full-stack applications with clean architecture, real-time systems, modern UI/UX, and scalable backend structures.
+
+I enjoy solving real-world problems, improving code quality, and continuously learning new technologies.
 
 ---
 
@@ -20,42 +39,37 @@ Here are some technologies I work with:
 
 | Date | Project | Description | Stack |
 |------|---------|-------------|-------|
-| 2025 | *RentConnect* | A peer-to-peer rental system where users can rent and rent out items. Includes real-time chat, booking calendar, notifications, and clean architecture. | .NET 8, Blazor Server, SQL Server, SignalR, Gmail SMTP, JavaScript, Clean Architecture |
-| 2025 | *TechHive AI Support* | Full-stack application featuring a real-time customer support chatbot powered by OpenAI API, with a custom chat UI and secure environment config. | .NET MVC, SignalR, OpenAI API, Bootstrap 5 |
-| 2025 | *Couple Expense Tracker* | Web app for couples to track and manage shared/individual expenses with analytics, auth, household codes, and filtering. | .NET MVC, EF Core, Identity, Chart.js, SQL Server, MailKit SMTP, Bootstrap |
-| 2024 | *Yap - Social Media Web App* | Full social media platform with posts, stories, likes, favorites, friend system, and real-time trending hashtags. Includes authentication, profiles, CRUD features, and Azure deployment with CI/CD. | ASP.NET MVC · EF Core · SQL · TailwindCSS . JavaScript . .NET SDK . HTML . |
-| 2024 | *REST API + Frontend E-Commerce System* | Full-stack e-commerce assignment built in two phases: REST API with database repository pattern, authentication, CRUD operations, search filters, then a frontend client consuming the API. Includes customer accounts, product catalog management, and order tracking. | .NET 8 · REST API · SQL Server · Repository Pattern · JWT Auth · SRP · Unit of Work · MVC/Client App |
-| 2024 | *MongoDB Quiz App* | Quiz builder system with dynamic categories, search, sorting, and CRUD question management. | C#, MongoDB, MongoDB.Driver |
-| 2024 | *Bookstore EF App* | Full CRUD bookstore management system with migrations and relational data structure. | .NET, EF Core, SQL Server |
-| 2023 | *WPF Store App* | Desktop store system with authentication, product management, JSON local storage, and async saving/loading. | WPF, C#, JSON, Async |
-| 2023 | *Store Console App (OOP)* | Console-based system with registration, login, cart system, and ordering using OOP structure. | C# Console, OOP |
-| 2023 | *Finding Numbers Console App* | Algorithm that detects numbers that start and end with the same digit with unique logic rules. | C# Console |
+| 2025 | [RentConnect](https://github.com/SaherZaid/RentConnect) | Peer-to-peer rental platform with booking calendar, real-time chat, notifications, and clean architecture. | .NET 8 · Blazor · SQL Server · SignalR · JavaScript |
+| 2025 | [TechHive AI Support](https://github.com/SaherZaid/TechHive.AI.Support) | Real-time chatbot system powered by OpenAI with secure environment configuration. | ASP.NET MVC · SignalR · OpenAI API |
+| 2025 | [Couple Expense Tracker](https://github.com/SaherZaid/CoupleExpenseTracker) | Shared expense management with analytics, charts, and role-based features. | .NET MVC · EF Core · Identity · Chart.js |
+| 2024 | [Yap – Social Media Platform](https://github.com/SaherZaid/Yap) | A full social media system with posts, stories, hashtags, friends, likes, and Azure deployment + CI/CD. | ASP.NET MVC · EF Core · TailwindCSS · Azure |
+| 2024 | [REST API + Blazor E-Commerce](https://github.com/SaherZaid/E-commerce-REST-API-and-Blazor-Frontend-Development) | Two-phase project: REST API with Repository Pattern + JWT + Blazor client frontend. | .NET 8 · JWT · Repository Pattern · UoW |
+| 2024 | [MongoDB Quiz App](https://github.com/SaherZaid/MongoDB-Quiz-Application-with-Question-Bank) | Quiz builder system supporting categories, search, and CRUD. | C#, MongoDB |
+| 2024 | [Entity Framework Bookstore](https://github.com/SaherZaid/Entity-Framework-Bookstore-Application) | CRUD bookstore system using migrations and relational modeling. | EF Core · SQL |
+| 2023 | [WPF Store Application](https://github.com/SaherZaid/WPF-Store-Application-with-User-and-Product-Management) | Desktop inventory app with auth and JSON storage. | WPF · C# |
+| 2023 | [OOP Store Console App](https://github.com/SaherZaid/Simple-Store-Console-Application) | Console application implementing store logic, user login and cart system. | C# Console |
+| 2023 | [Find Numbers Pattern App](https://github.com/SaherZaid/Find-numbers-in-string-with-characters) | Finds special numeric patterns inside text. | C# Console |
 
 ---
 
-## 🎯 Highlighted Achievements
+### 🏆 GitHub Stats
 
-✨ *Real-time Communication (SignalR)*  
-Used in RentConnect & TechHive AI Support for live chat messaging.
+<div align="center">
 
-📅 *Advanced UI Logic & JavaScript*  
-Custom booking calendar in RentConnect using Flatpickr + backend validation.
+![Stats](https://github-readme-stats.vercel.app/api?username=SaherZaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-🤖 *AI Integration (OpenAI API)*  
-Secure chatbot inside an ASP.NET MVC environment.
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaherZaid&layout=compact&theme=tokyonight&hide_border=true)
 
-📊 *Data Visualization*  
-Analytics dashboard using Chart.js in Couple Expense Tracker.
+</div>
 
 ---
 
 ## 📩 Contact
 
-- 📧 Email: *Saherzaid1997@email.com*
-- 🔗 LinkedIn: https://www.linkedin.com/in/saher-zaid-4584842a7/
-- ⁠📞 Mobile number: +46738785036
-
+📧 Email: *Saherzaid1997@email.com*  
+🔗 LinkedIn: **https://www.linkedin.com/in/saher-zaid-4584842a7/**  
+📞 Phone: *+46 738 785 036*
 
 ---
 
-Thanks for checking out my work — more updates coming soon! 🚀
+✨ Thanks for visiting — More updates coming soon! 🚀
