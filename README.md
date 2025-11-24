@@ -52,13 +52,13 @@ I enjoy solving real-world problems, improving code quality, and continuously le
 
 ---
 
-### 🏆 GitHub Stats
+## 🏆 GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SaherZaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaherZaid&theme=tokyonight" alt="GitHub Streak"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaherZaid&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaherZaid&layout=compact&theme=tokyonight"/>
 
 </div>
 
