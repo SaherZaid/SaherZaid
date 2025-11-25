@@ -45,7 +45,7 @@ I enjoy solving real-world problems, improving code quality, and continuously le
 | 2025 | [Yap – Social Media Platform](https://github.com/SaherZaid/Yap) | A full social media system with posts, stories, hashtags, friends, likes. | ASP.NET MVC · EF Core · HTML . TailwindCSS ·  |
 | 2024 | [REST API + Blazor E-Commerce](https://github.com/SaherZaid/E-commerce-REST-API-and-Blazor-Frontend-Development) | Two-phase project: REST API with Repository Pattern + JWT + Blazor client frontend. | .NET 8 · JWT · Repository Pattern · UoW . HTML . TailwindCSS · |
 | 2024 | [MongoDB Quiz App](https://github.com/SaherZaid/MongoDB-Quiz-Application-with-Question-Bank) | Quiz builder system supporting categories, search, and CRUD. | C#, MongoDB |
-| 2024 | [Entity Framework Bookstore](https://github.com/SaherZaid/Entity-Framework-Bookstore-Application) | CRUD bookstore system using migrations and relational modeling. | c# . EF Core · SQL |
+| 2024 | [Entity Framework Bookstore](https://github.com/SaherZaid/Entity-Framework-Bookstore-Application) | CRUD bookstore system using migrations and relational modeling. | C# . EF Core · SQL |
 | 2023 | [WPF Store Application](https://github.com/SaherZaid/WPF-Store-Application-with-User-and-Product-Management) | Desktop inventory app with auth and JSON storage. | WPF · C# |
 | 2023 | [OOP Store Console App](https://github.com/SaherZaid/Simple-Store-Console-Application) | Console application implementing store logic, user login and cart system. | C# Console |
 | 2023 | [Find Numbers Pattern App](https://github.com/SaherZaid/Find-numbers-in-string-with-characters) | Finds special numeric patterns inside text. | C# Console |
