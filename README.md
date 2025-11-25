@@ -10,52 +10,58 @@
 
 ## 🧰 Languages & Tools
 
-<div align="center">
-
-### 🔹 Core Technologies
-
+### 🧠 Backend & Frameworks
+<div>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> 
+<img src="https://img.shields.io/badge/ASP.NET%20MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET%20MVC-68217A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WPF-68217A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WPF-6D4AFF?style=for-the-badge&logo=windows&logoColor=white"/>
+</div>
 
----
+### 🏗️ Architecture & System Design
+<div>
+<img src="https://img.shields.io/badge/Microservices-1F6FEB?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID%20Principles-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repository%20Pattern-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unit%20Of%20Work-000000?style=for-the-badge"/>
+</div>
 
-### 🔹 Frontend Technologies
+### 🔗 APIs & Integration
+<div>
+<img src="https://img.shields.io/badge/SignalR-0A6EBD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-0275D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/SMTP%20Integrations-666666?style=for-the-badge"/>
+</div>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML%205-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS%203-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
----
-
-### 🔹 Databases & Data Layer
-
+### 🗄️ Databases & Data Handling
+<div>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Migrations-000000?style=for-the-badge"/>
+</div>
 
----
+### 🎨 Frontend Tech
+<div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flatpickr-4A90E2?style=for-the-badge"/>
+</div>
 
-### 🔹 Cloud & DevOps
-
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> 
+### 🛠️ Tools & Cloud
+<div>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
----
-
-### 🔹 Additional Expertise
-
-<img src="https://img.shields.io/badge/SignalR-5C2D91?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/Clean%20Architecture-2E8B57?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/OpenAI%20Integration-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-1F75FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Real--Time%20Apps-ffd60a?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 ---
 
