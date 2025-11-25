@@ -19,15 +19,6 @@
 <img src="https://img.shields.io/badge/WPF-6D4AFF?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
 
-### 🏗️ Architecture & System Design
-<div>
-<img src="https://img.shields.io/badge/Microservices-1F6FEB?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOLID%20Principles-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Repository%20Pattern-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Unit%20Of%20Work-000000?style=for-the-badge"/>
-</div>
-
 ### 🔗 APIs & Integration
 <div>
 <img src="https://img.shields.io/badge/SignalR-0A6EBD?style=for-the-badge"/>
@@ -61,6 +52,15 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</div>
+
+### 🏗️ Architecture & System Design
+<div>
+<img src="https://img.shields.io/badge/Microservices-1F6FEB?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID%20Principles-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repository%20Pattern-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unit%20Of%20Work-000000?style=for-the-badge"/>
 </div>
 ---
 
