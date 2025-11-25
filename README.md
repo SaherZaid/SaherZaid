@@ -39,13 +39,13 @@ I enjoy solving real-world problems, improving code quality, and continuously le
 
 | Date | Project | Description | Stack |
 |------|---------|-------------|-------|
-| 2025 | [RentConnect](https://github.com/SaherZaid/RentConnect) | Peer-to-peer rental platform with booking calendar, real-time chat, notifications, and clean architecture. | .NET 8 · Blazor · SQL Server · SignalR · JavaScript |
-| 2025 | [TechHive AI Support](https://github.com/SaherZaid/TechHive.AI.Support) | Real-time chatbot system powered by OpenAI with secure environment configuration. | ASP.NET MVC · SignalR · OpenAI API |
-| 2025 | [Couple Expense Tracker](https://github.com/SaherZaid/CoupleExpenseTracker) | Shared expense management with analytics, charts, and role-based features. | .NET MVC · EF Core · Identity · Chart.js |
-| 2025 | [Yap – Social Media Platform](https://github.com/SaherZaid/Yap) | A full social media system with posts, stories, hashtags, friends, likes, and Azure deployment + CI/CD. | ASP.NET MVC · EF Core · TailwindCSS · Azure |
-| 2024 | [REST API + Blazor E-Commerce](https://github.com/SaherZaid/E-commerce-REST-API-and-Blazor-Frontend-Development) | Two-phase project: REST API with Repository Pattern + JWT + Blazor client frontend. | .NET 8 · JWT · Repository Pattern · UoW |
+| 2025 | [RentConnect](https://github.com/SaherZaid/RentConnect) | Peer-to-peer rental platform with booking calendar, real-time chat, notifications, and clean architecture. | .NET 8 · Blazor · SQL Server · SignalR · JavaScript . HTML . TailwindCSS · |
+| 2025 | [TechHive AI Support](https://github.com/SaherZaid/TechHive.AI.Support) | Real-time chatbot system powered by OpenAI with secure environment configuration. | ASP.NET MVC · SignalR · OpenAI API . HTML . TailwindCSS · |
+| 2025 | [Couple Expense Tracker](https://github.com/SaherZaid/CoupleExpenseTracker) | Shared expense management with analytics, charts, and role-based features. | .NET MVC · EF Core · Identity · Chart.js. HTML . TailwindCSS · |
+| 2025 | [Yap – Social Media Platform](https://github.com/SaherZaid/Yap) | A full social media system with posts, stories, hashtags, friends, likes. | ASP.NET MVC · EF Core · HTML . TailwindCSS ·  |
+| 2024 | [REST API + Blazor E-Commerce](https://github.com/SaherZaid/E-commerce-REST-API-and-Blazor-Frontend-Development) | Two-phase project: REST API with Repository Pattern + JWT + Blazor client frontend. | .NET 8 · JWT · Repository Pattern · UoW . HTML . TailwindCSS · |
 | 2024 | [MongoDB Quiz App](https://github.com/SaherZaid/MongoDB-Quiz-Application-with-Question-Bank) | Quiz builder system supporting categories, search, and CRUD. | C#, MongoDB |
-| 2024 | [Entity Framework Bookstore](https://github.com/SaherZaid/Entity-Framework-Bookstore-Application) | CRUD bookstore system using migrations and relational modeling. | EF Core · SQL |
+| 2024 | [Entity Framework Bookstore](https://github.com/SaherZaid/Entity-Framework-Bookstore-Application) | CRUD bookstore system using migrations and relational modeling. | c# . EF Core · SQL |
 | 2023 | [WPF Store Application](https://github.com/SaherZaid/WPF-Store-Application-with-User-and-Product-Management) | Desktop inventory app with auth and JSON storage. | WPF · C# |
 | 2023 | [OOP Store Console App](https://github.com/SaherZaid/Simple-Store-Console-Application) | Console application implementing store logic, user login and cart system. | C# Console |
 | 2023 | [Find Numbers Pattern App](https://github.com/SaherZaid/Find-numbers-in-string-with-characters) | Finds special numeric patterns inside text. | C# Console |
