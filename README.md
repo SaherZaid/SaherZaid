@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/ASP.NET%20MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white"/>
 <img src="https://img.shields.io/badge/WPF-6D4AFF?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </div>
 
 ### 🔗 APIs & Integration
@@ -42,6 +43,9 @@
 <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flatpickr-4A90E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </div>
 
 ### 🛠️ Tools & Cloud
@@ -76,6 +80,7 @@ I enjoy solving real-world problems, improving code quality, and continuously le
 
 | Date | Project | Description | Stack |
 |------|---------|-------------|-------|
+| 2025 | [HabitFlow](https://github.com/SaherZaid/HabitFlow) | Cross-platform habit tracker with streaks, calendar view, history filtering, reminders, and weekly insights. | .NET MAUI · MVVM · Local Notifications · Preferences |
 | 2025 | [RentConnect](https://github.com/SaherZaid/RentConnect) | Peer-to-peer rental platform with booking calendar, real-time chat, notifications, and clean architecture. | .NET 8 · Blazor · SQL Server · SignalR · JavaScript . HTML . TailwindCSS · .css |
 | 2025 | [TechHive AI Support](https://github.com/SaherZaid/TechHive.AI.Support) | Real-time chatbot system powered by OpenAI with secure environment configuration. | ASP.NET MVC · SignalR · OpenAI API . HTML . TailwindCSS · .css |
 | 2025 | [Couple Expense Tracker](https://github.com/SaherZaid/CoupleExpenseTracker) | Shared expense management with analytics, charts, and role-based features. | .NET MVC · EF Core · Identity · Chart.js. HTML . TailwindCSS · .css |
