@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub Portfolio
 
-🚀 Full-Stack .NET Developer | Blazor | MVC | SQL | Real-Time Systems  
+🚀 Full-Stack .NET Developer | MVC | SQL | MongoDB | Entity FrameWork Core | React | Angular | JavaScript | Blazor | Real-Time Systems  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaherZaid&style=for-the-badge&color=blue)
 
