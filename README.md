@@ -108,7 +108,7 @@ I enjoy solving real-world problems, improving code quality, and continuously le
 
 ## 📩 Contact
 
-📧 Email: *Saherzaid1997@email.com*  
+📧 Email: *Saherzaid1997@gmail.com*  
 🔗 LinkedIn: **https://www.linkedin.com/in/saher-zaid-4584842a7/**  
 📞 Phone: *+46 738 785 036*
 
