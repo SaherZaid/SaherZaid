@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white"/>
 <img src="https://img.shields.io/badge/WPF-6D4AFF?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </div>
 
 ### 🔗 APIs & Integration
