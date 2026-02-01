@@ -81,6 +81,7 @@ I enjoy solving real-world problems, improving code quality, and continuously le
 
 | Date | Project | Description | Stack |
 |------|---------|-------------|-------|
+| 2026 | [Smart Logistics](https://github.com/SaherZaid/SmartLogistics) | Full-stack logistics management system with JWT authentication, shipment lifecycle tracking, analytics dashboard, RESTful API, and clean modern UI built with React and Tailwind. | React · TypeScript · Node.js · Express · MongoDB · JWT · TailwindCSS |
 | 2026 | [HabitFlow](https://github.com/SaherZaid/HabitFlow) | Cross-platform habit tracker with streaks, calendar view, history filtering, reminders, and weekly insights. | .NET MAUI · MVVM · Local Notifications · Preferences |
 | 2025 | [RentConnect](https://github.com/SaherZaid/RentConnect) | Peer-to-peer rental platform with booking calendar, real-time chat, notifications, and clean architecture. | .NET 8 · Blazor · SQL Server · SignalR · JavaScript . HTML . TailwindCSS · .css |
 | 2025 | [TechHive AI Support](https://github.com/SaherZaid/TechHive.AI.Support) | Real-time chatbot system powered by OpenAI with secure environment configuration. | ASP.NET MVC · SignalR · OpenAI API . HTML . TailwindCSS · .css |
