@@ -96,18 +96,6 @@ I enjoy solving real-world problems, improving code quality, and continuously le
 
 ---
 
-## 🏆 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaherZaid&theme=tokyonight" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaherZaid&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 📩 Contact
 
 📧 Email: *Saherzaid1997@gmail.com*  
